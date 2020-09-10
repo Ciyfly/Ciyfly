@@ -1,7 +1,6 @@
-- 🔭 I’m currently working on qianxin
-- 🌱 I’m currently learning python java go vue
+- 🔭 安全研发 sdl工具链 蜜罐 威胁情报
+- 🌱 Python Java vue go
 
-I really like security development work  
-Welcome to exchange security development  
+安全研发~
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ciyfly&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
