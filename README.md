@@ -1,6 +1,6 @@
-- 🔭 安全研发 sdl工具链 蜜罐 威胁情报
-- 🌱 Python Java vue go
+- 🔭 安全研发
+- 🌱 ![](https://img.shields.io/badge/Python-2%2F3-blue) ![](https://img.shields.io/badge/Golang-1.17.5-blue)
 
-安全研发~
+好好学习 天天向上
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ciyfly&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
