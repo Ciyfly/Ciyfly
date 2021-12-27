@@ -1,4 +1,4 @@
-- 🔭 安全研发
+- 🔭 安全研发小菜鸡
 - 🌱 ![](https://img.shields.io/badge/Python-2%2F3-blue) ![](https://img.shields.io/badge/Golang-1.17.5-blue)
 
 好好学习 天天向上
